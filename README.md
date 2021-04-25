@@ -1,0 +1,1 @@
+# linenotify-covid19-th
